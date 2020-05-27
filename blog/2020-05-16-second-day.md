@@ -22,7 +22,7 @@ So time for actual coding. I got the starting code from
 [here](https://github.com/CodingTrain/website/tree/master/learning/ml5/1.1_image_classification/P5).
 I just followed the video to run the pretrained model, this is what my code
 looks like
-[here](https://github.com/ShahNafis/tensorflow.js/tree/master/src/tutorial/Image_Classification_with_MobileNet)
+[here](https://github.com/ShahNafis/tensorflowjs/tree/master/_src/tutorial/Image_Classification_with_MobileNet)
 
 My results where as follows
 
