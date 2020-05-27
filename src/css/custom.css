@@ -7,6 +7,9 @@
 
 /* You can override the default Infima variables here. */
 :root {
+  /* https://convertingcolors.com/rgb-color-146_224_208.html?search=RGB(146,%20224,%20208)
+  https://pinetools.com/lighten-color
+  https://pinetools.com/darken-color */
   --ifm-color-primary:#ff7d19  ;
   /* 9.76%  #25c2a0*/
   --ifm-color-primary-dark: rgb(33, 175, 144); 
