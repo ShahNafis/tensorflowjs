@@ -1,0 +1,14 @@
+{
+  "id": "index",
+  "title": "Purpose of this project",
+  "description": "Welcome",
+  "source": "@site/docs\\index.md",
+  "permalink": "/docs/index",
+  "editUrl": "https://github.com/ShahNafis/tensorflowjs/edit/master/docs/index.md",
+  "sidebar_label": "Purpose of this project",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/doc1"
+  }
+}

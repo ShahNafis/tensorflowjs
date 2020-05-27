@@ -1,0 +1,16 @@
+{
+  "ml-5": {
+    "allTagsPath": "/blog/tags",
+    "slug": "ml-5",
+    "name": "ml5",
+    "count": 4,
+    "permalink": "/blog/tags/ml-5"
+  },
+  "loss": {
+    "allTagsPath": "/blog/tags",
+    "slug": "loss",
+    "name": "loss",
+    "count": 1,
+    "permalink": "/blog/tags/loss"
+  }
+}

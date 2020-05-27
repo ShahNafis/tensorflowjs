@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/2020/05/16/second-day",
+  "editUrl": "https://github.com/ShahNafis/tensorflowjs/edit/master/blog/2020-05-16-second-day.md",
+  "source": "@site/blog\\2020-05-16-second-day.md",
+  "description": "Second day trying to use TensorFlow.js/ml5.js where I run a pretrained image",
+  "date": "2020-05-16T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "ml5",
+      "permalink": "/blog/tags/ml-5"
+    }
+  ],
+  "title": "Running a pretrained image model",
+  "readingTime": 1.04,
+  "truncated": true,
+  "prevItem": {
+    "title": "Transfer learning with feature extractor",
+    "permalink": "/blog/2020/05/26/thrid-day"
+  },
+  "nextItem": {
+    "title": "Introduction",
+    "permalink": "/blog/2020/05/15/first-day"
+  }
+}

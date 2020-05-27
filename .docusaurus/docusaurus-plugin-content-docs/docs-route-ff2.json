@@ -1,0 +1,26 @@
+{
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "type": "category",
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "Purpose of this project",
+            "href": "/docs/index"
+          },
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/docs/doc1"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/doc1": "someSidebar",
+    "/docs/index": "someSidebar"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "permalink": "/blog/2020/05/15/first-day",
+  "editUrl": "https://github.com/ShahNafis/tensorflowjs/edit/master/blog/2020-05-15-first-day.md",
+  "source": "@site/blog\\2020-05-15-first-day.md",
+  "description": "First day trying to use TensorFlow.js and finding out what I need to learn",
+  "date": "2020-05-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "ml5",
+      "permalink": "/blog/tags/ml-5"
+    }
+  ],
+  "title": "Introduction",
+  "readingTime": 1.185,
+  "truncated": true,
+  "prevItem": {
+    "title": "Running a pretrained image model",
+    "permalink": "/blog/2020/05/16/second-day"
+  }
+}

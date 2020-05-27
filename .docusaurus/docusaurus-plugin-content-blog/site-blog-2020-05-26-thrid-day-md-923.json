@@ -1,0 +1,24 @@
+{
+  "permalink": "/blog/2020/05/26/thrid-day",
+  "editUrl": "https://github.com/ShahNafis/tensorflowjs/edit/master/blog/2020-05-26-thrid-day.md",
+  "source": "@site/blog\\2020-05-26-thrid-day.md",
+  "description": "Basicly getting a pretrained model to learn new things.",
+  "date": "2020-05-26T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "ml5",
+      "permalink": "/blog/tags/ml-5"
+    }
+  ],
+  "title": "Transfer learning with feature extractor",
+  "readingTime": 0.525,
+  "truncated": true,
+  "prevItem": {
+    "title": "Feature Extracting",
+    "permalink": "/blog/2020/05/27/feature-extration"
+  },
+  "nextItem": {
+    "title": "Running a pretrained image model",
+    "permalink": "/blog/2020/05/16/second-day"
+  }
+}
